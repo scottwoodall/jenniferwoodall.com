@@ -155,7 +155,7 @@ font_settings:
 
 advanced_settings:
   ajax_loading: true
-  analytics_code: "UA-20443809-4"
+  analytics_code: "<script async src='https://www.googletagmanager.com/gtag/js?id=UA-20443809-4'></script><script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('config', 'UA-20443809-4');</script>"
   custom_styles: ""
   header_js: ""
   footer_js: ""
