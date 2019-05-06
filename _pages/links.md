@@ -4,5 +4,6 @@ description: A stunning personal blog Jekyll theme with an image-focused design.
 featured_image: /images/demo/demo-portrait.jpg
 ---
 
-* [FASTer Way To Fat Loss New Client Registration](https://www.fasterwaycoach.com/#jenniferwoodall)
-* [FASTer Way To Fat Loss VIP Registration](https://www.fasterwaycoach.com/womens-vip#jenniferwoodall)
+## FASTer Way To Fat Loss
+* [New Client Registration](https://www.fasterwaycoach.com/#jenniferwoodall)
+* [VIP Registration](https://www.fasterwaycoach.com/womens-vip#jenniferwoodall)
